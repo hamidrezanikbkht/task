@@ -1,0 +1,40 @@
+.dashboardContainer {
+  max-width: 650px;
+  margin: 70px auto;
+  padding: 30px 40px;
+  text-align: center;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  h1 {
+    font-size: 2.4rem;
+    color: #222;
+    margin-bottom: 1rem;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+  }
+}
+
+@media (max-width: 768px) {
+  .dashboardContainer {
+    margin: 40px 20px;
+    padding: 25px 20px;
+  }
+
+  .dashboardContainer h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .dashboardContainer {
+    margin: 25px 15px;
+    padding: 20px 15px;
+  }
+
+  .dashboardContainer h1 {
+    font-size: 1.7rem;
+  }
+}
