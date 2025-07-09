@@ -1,5 +1,9 @@
 # Authentication & Dashboard - Task
 
+## Deploy on Vercel
+
+[Demo](https://task-1h1u.vercel.app/auth) 
+
 ✅ **Tech Stack**:  
 - Next.js (App Router)  
 - TypeScript  
@@ -26,8 +30,4 @@
 🔗 Link to Demo: (you can deploy to Vercel if you want)  
 
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://task-1h1u.vercel.app/auth) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
